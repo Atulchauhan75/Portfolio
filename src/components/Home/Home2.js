@@ -52,11 +52,11 @@ function Home2() {
               </h1>
               <p className="home-about-body">
               <ul>
-                <li>
+                {/* <li>
                   Qualified for <b className="purple">ACM ICPC 2023 </b>Chennai
                   Regionals by securing All India Rank
                   <b className="purple"> 321</b>.
-                </li>
+                </li> */}
                 <br />
                 <li>
                   <b className="purple">Pupil</b> on CodeForces : Highest
@@ -69,7 +69,6 @@ function Home2() {
                   <b className="purple">1655</b> Rating, among{" "}
                   <b className="purple">top 10.75%</b> of all Indian users.
                 </li>
-                <br />
                 <br />
                 <li>
                   <b className="purple">Knight</b> on LeetCode :{" "}
@@ -104,7 +103,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://x.com/Krishna_Sh_"
+                  href="https://x.com/AtuChauhan9876?t=5SAk965G52p8HZur_e2IcQ&s=09"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -114,7 +113,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/krishnash1355/"
+                  href="https://www.linkedin.com/in/atul-chauhan-baab46247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -124,7 +123,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/_krishna.x7_/"
+                  href="https://www.instagram.com/atulchauhan1202?utm_source=qr&igsh=MW93b21oeGo5Ync5MQ=="
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
