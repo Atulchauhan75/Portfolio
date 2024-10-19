@@ -21,10 +21,9 @@ function Projects() {
             <ProjectCard
               imgPath={ChatStream}
               isBlog={false}
-              title="ChatStream"
-              description="A Web Application that enables real-time chat functionality for users. Users can send and receive messages instantly using Firebase, ensuring seamless communication with friends and family."
-              ghLink="https://github.com/krishnash1355/ChatStream"
-              // demoLink=""
+              title="Food-Villa"
+              description="A web application that allows users to explore a restaurant menu with ease. Built using React and Redux, it offers a smooth interface for browsing dishes and customizing selections. The focus is on delivering a seamless user experience through dynamic state management and a clean, engaging design, without backend functionality."
+              ghLink="https://github.com/Atulchauhan75/FoodVilla"
             />
           </Col>
 
@@ -32,9 +31,9 @@ function Projects() {
             <ProjectCard
               imgPath={WeatherApp}
               isBlog={false}
-              title="WeatherApp"
-              description="A Web Application that provides real-time weather updates for various locations. Users can search for current weather conditions and detailed forecasts for any city around the globe easily."
-              ghLink="https://github.com/krishnash1355/react-weather-app-master"
+              title="Video Streaming WebApp"
+              description="Built a video streaming app using React and Redux, integrating live APIs for search suggestions to enhance real-time results. Created user-friendly interfaces with category-based displays for smoother navigation. Optimized state management to improve data retrieval and elevate the overall user experience."
+              ghLink="https://github.com/Atulchauhan75/YOUTUBE-"
             />
           </Col>
         </Row>
